@@ -36,7 +36,6 @@ if(score === 4){
 }else{
   console.log("You lose !!")
 }
-console.log("Your score after after 8qns = ",score)
 //LEVEL 3 STARTS FROM HERE ----
 
 
